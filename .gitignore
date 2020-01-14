@@ -1,0 +1,6 @@
+#este archivo contiene los archivos o directorios que vamos a ignorar
+
+node_modules/
+
+*.txt
+*.zip
